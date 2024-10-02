@@ -1,5 +1,5 @@
-# SMX2-M8UF1A1-HistoriaWeb-1992-Lince-Marti Pidemunt
-# Que es Lince?
+# SMX2-M8UF1A1-HistoriaWeb-1992-Lynx-Marti Pidemunt
+# Que es Lynx?
 
 Lynx es un navegador web basado en texto que se ejecuta dentro de una terminal o consola. Que permite navegar por páginas web, pero solo muestra el contenido textual, sin elementos gráficos como imágenes, videos o animaciones.
 
