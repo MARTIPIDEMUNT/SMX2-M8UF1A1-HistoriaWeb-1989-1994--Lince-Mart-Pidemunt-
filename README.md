@@ -1,10 +1,16 @@
 # SMX2-M8UF1A1-HistoriaWeb-1992-Lynx-Marti Pidemunt
-# Que es Lynx?
 
-Lynx es un navegador web basado en texto que se ejecuta dentro de una terminal o consola. Que permite navegar por páginas web, pero solo muestra el contenido textual, sin elementos gráficos como imágenes, videos o animaciones.
+# ¿Qué es Lynx?
+
+Lynx es un navegador web basado en texto. lo que lo hace rápido y eficiente, sobre todo en conexiones de baja velocidad.
 
 ![Lynx](https://github.com/MARTIPIDEMUNT/SMX2-M8UF1A1-HistoriaWeb-1989-1994--Lince-Mart-Pidemunt-/blob/main/Lynx.jpg "Lynx")
 
-# Cuando se creo?
+# ¿Cuándo se creó?
 
-Lynx fue creado en 1992 por Lou Montulli y su equipo en la Universidad de Kansas como un navegador de texto para acceder a documentos y páginas web sin gráficos. Evolucionó para ser usado en entornos de línea de comandos y sigue siendo popular por su rapidez y eficiencia en sistemas.
+Lynx fue creado en 1992 en la Universidad de Kansas por Lou Montulli y su equipo, como un navegador para acceder a información del campus universitario. Aunque el navegador evolucionó para ser usado en entornos de línea de comandos..
+
+# ¿En qué entornos es compatible Lynx?
+
+Lynx funciona en terminales de texto y en emuladores de terminal.
+
